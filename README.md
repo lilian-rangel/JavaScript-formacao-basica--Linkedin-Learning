@@ -1,4 +1,12 @@
 # JavaScript-formacao-basica--Linkedin-Learning
+Temáticas aprendidas: <br>
+° Elementos básicos do JS; <br>
+° Funções e objetos;<br>
+° Manipulando elementos no DOM e eventos;<br>
+° Loops<br>
+° Troubleshooting, validação e minificação<br>
+
+--------------------------------------------------------------------------
 
 Operadores lógicos
 And/or
